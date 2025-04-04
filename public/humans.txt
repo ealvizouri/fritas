@@ -1,0 +1,29 @@
+/* TEAM */
+    Creator: [Chava Gonzalez Alvizouri]
+    Contact: []
+    Instagram: @[]
+    Location: []
+
+/* THANKS */
+    Thanks to all our contributors and open source community
+
+/* SITE */
+    Last update: 2024/[MM/DD]
+    Language: English
+    Doctype: HTML5
+    IDE: VS Code
+    Standards: HTML5, CSS3, JavaScript
+    Software: Git
+    
+/* TECHNOLOGY */
+    Frontend: Vanilla JS
+    Styling: []
+    Hosting: firebase
+    Version Control: Git
+    Package Manager: npm
+
+/* SEO & ANALYTICS */
+    Analytics: []
+    SEO Tools: []
+    
+This site is built with ♥ and coffee

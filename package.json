@@ -1,0 +1,25 @@
+{
+  "name": "fritas",
+  "version": "1.0.0",
+  "description": "Main site fritas.mx",
+  "main": "public/index.html",
+  "scripts": {
+    "deploy": "firebase deploy --only hosting:fritas",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ealvizouri/fritas.git"
+  },
+  "keywords": [
+    "Fritas",
+    "main",
+    "site"
+  ],
+  "author": "Mariano Alvizouri & Chava Gonzalez Alvizouri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ealvizouri/fritas/issues"
+  },
+  "homepage": "https://github.com/ealvizouri/fritas#readme"
+}

@@ -1,0 +1,30 @@
+# Allow all web crawlers
+User-agent: *
+Allow: /
+
+# Specify crawl delay to prevent server overload
+Crawl-delay: 10
+
+# Common bot-specific directives
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Block common crawler traps and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /login/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /search/
+Disallow: /*?*
+Disallow: /*?query=
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+# Sitemap declaration (uncomment and update with your actual sitemap URL)
+# Sitemap: https://yourdomain.com/sitemap.xml
